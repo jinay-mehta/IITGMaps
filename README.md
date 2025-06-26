@@ -5,7 +5,7 @@ IITGMaps is an interactive web application that helps users find the shortest pa
 ## Screenshots
 
 ### Path Finding Interface
-![Path Finding Interface](IITGMapsClient/public/app-screenshot.png)
+![Path Finding Interface](Client/public/app-screenshot.png)
 *Working interface showing path calculation from node 1 to node 27 with total distance of 1796m*
 
 
